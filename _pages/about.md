@@ -1,5 +1,3 @@
-好的,我已经根据您的要求修改了markdown文件,内容如下:
-
 ---
 permalink: /
 title: "这是我的个人主页,基于Academic Pages模板创建"
